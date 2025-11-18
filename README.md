@@ -70,6 +70,8 @@ O Sorobô Chef Nutrition Lab é uma aplicação Python que:
 6. O Agent 1 monta o JSON com a receita e informações nutricionais.
 7. O script (python) gera os PDFs
 
+<img src="media/fluxo.png" alt="Aplicação rodando" width="500" />
+
 ---
 
 ## Estrutura do Projeto
@@ -147,3 +149,11 @@ Para abrir manualmente:
 ```sh
 open recipes/sorobo_recipe_*.pdf
 ```
+
+### Referências
+
+- https://docs.astral.sh/uv/guides/install-python/
+- https://learn.microsoft.com/pt-br/python/api/overview/azure/identity-readme?view=azure-python
+- https://learn.microsoft.com/en-us/python/api/overview/azure/ai-agents-readme?view=azure-python
+- https://learn.microsoft.com/en-us/python/api/azure-ai-agents/azure.ai.agents.models.connectedagenttool?view=azure-python
+- https://pypi.org/project/reportlab/
