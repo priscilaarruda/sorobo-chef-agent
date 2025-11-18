@@ -1,0 +1,14 @@
+[project]
+name = "sorobo-chef-agent"
+version = "0.1.0"
+description = "Sorobô NutriChef"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "agent-framework>=1.0.0b251114",
+    "azure-ai-agents>=1.2.0b5",
+    "azure-ai-projects>=2.0.0b2",
+    "ipykernel>=7.1.0",
+    "python-dotenv>=1.2.1",
+    "reportlab>=4.4.4"
+]
