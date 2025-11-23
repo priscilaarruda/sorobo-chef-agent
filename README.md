@@ -27,7 +27,7 @@ O Sorobô Chef Nutrition Lab é uma aplicação Python que:
   - Informações nutricionais da receita
 
 
-<img src="media/app_run.png" alt="Aplicação rodando" width="500" />
+<img src="./media/app-run.png" alt="Aplicação rodando" width="500" />
 
 ---
 
@@ -70,7 +70,7 @@ O Sorobô Chef Nutrition Lab é uma aplicação Python que:
 6. O Agent 1 monta o JSON com a receita e informações nutricionais.
 7. O script (python) gera os PDFs
 
-<img src="media/fluxo.png" alt="Aplicação rodando" width="500" />
+<img src="./media/flow.png" alt="Aplicação rodando" width="500" />
 
 ---
 
@@ -117,7 +117,7 @@ Criar o Agent 2 (Nutri Agent):
 uv run agents/create_sorobo_nutri_agent.py
 ```
 
-<img src="media/nutri-agent.png" alt="Azure - Nutri Agent" width="500" />
+<img src="./media/the-nutri-agent.png" alt="Azure - Nutri Agent" width="500" />
 
 
 Criar o Agent 1 (Sorobô Chef):
@@ -125,7 +125,7 @@ Criar o Agent 1 (Sorobô Chef):
 uv run agents/create_sorobo_agent.py
 ```
 
-<img src="media/chef_agent.png" alt="Azure - Chef Agent" width="500" />
+<img src="./media/the-chef-agent.png" alt="Azure - Chef Agent" width="500" />
 
 
 
